@@ -49,40 +49,16 @@
       "id": 98443198
     },
     {
-      "cityName": "Malta",
-      "country": "Malta",
-      "emoji": "🇲🇹",
-      "date": "2023-08-05T10:35:29.276Z",
-      "notes": "hey",
+      "cityName": "Brindisi",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-08-07T13:30:37.105Z",
+      "notes": "Best family holiday 😁",
       "position": {
-        "lat": "35.81781315869664",
-        "lng": "14.326171875000002"
+        "lat": "40.62646106367355",
+        "lng": "17.957153320312504"
       },
-      "id": 98443199
-    },
-    {
-      "cityName": "Ribera d'Urgellet",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-08-05T10:35:55.183Z",
-      "notes": "hoho",
-      "position": {
-        "lat": "42.32606244456202",
-        "lng": "1.3623046875000002"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "Skipton",
-      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
-      "emoji": "🇬🇧",
-      "date": "2023-08-05T10:38:23.248Z",
-      "notes": "j",
-      "position": {
-        "lat": "53.95931761174562",
-        "lng": "-2.0146179199218754"
-      },
-      "id": 98443201
+      "id": 98443202
     }
   ]
 }
